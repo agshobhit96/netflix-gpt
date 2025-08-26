@@ -1,0 +1,9 @@
+.login-container {
+    background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), /* black overlay */
+     url('https://assets.nflxext.com/ffe/siteui/vlv3/3e4bd046-85a3-40e1-842d-fa11cec84349/web/IN-en-20250818-TRIFECTA-perspective_4bd1b66d-bbb6-4bc6-ba8f-ecbba53a1278_large.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
